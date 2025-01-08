@@ -19,7 +19,7 @@ I performed a flood simulation using rainfall data and other inputs, but I could
 ---
 
 ## 🎤 Lightning Talk:
-The [PowerPoint presentation](link-to-presentation) was for a 30-second lightning talk our professor assigned us in class. I was blown away by my fellow students' presentations\u2014they were amazing! ✨
+The [PowerPoint presentation](GIS_PPT.pdf) was for a 30-second lightning talk our professor assigned us in class. I was blown away by my fellow students' presentations they were amazing! ✨
 
 ---
 
