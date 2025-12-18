@@ -11,7 +11,7 @@ The study integrates historical maps, satellite imagery, elevation data, and rai
 ---
 
 ### Results
-![img](https://github.com/nandhika03/Chennai-analyzing-flood-causes-ArcGISPro3/blob/main/Maps/FLOODRISKMAPPED.pdf)
+![img](https://github.com/nandhika03/Chennai-analyzing-flood-causes-ArcGISPro3/blob/main/Maps/floodriskchennai.png)
 - Most of Chennai lies within the 0–3 m elevation range, making it highly susceptible to flooding.  
 - LULC change analysis shows substantial urban expansion between 1985 and 2023, particularly over former water bodies.  
 - Several historically significant tanks and reservoirs have been fully encroached upon by urban development.  
@@ -78,9 +78,8 @@ All data sources can be found [here](https://github.com/nandhika03/Chennai-analy
 - LULC classification (1985 vs. 2023)  
 - Change detection analysis  
 - Hydrological processing (Fill, Flow Direction, Flow Accumulation, Stream Extraction)  
-- Raster combination and flood risk visualization  
-
-A detailed workflow diagram is included in the [reports folder](https://github.com/nandhika03/Chennai-analyzing-flood-causes-ArcGISPro3/tree/main/Reports).
+- Raster combination and flood risk visualization
+- A detailed workflow diagram is included in the [reports folder](https://github.com/nandhika03/Chennai-analyzing-flood-causes-ArcGISPro3/tree/main/Reports).
 ---
 
 ### Discussion
